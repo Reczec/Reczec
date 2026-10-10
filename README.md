@@ -26,7 +26,7 @@
 
 I graduated from the **TGM Vienna** (HTL, Industrial Engineering – Business Informatics) in 2026. I work with **Python, SQL and web technologies** and like projects that solve a concrete problem.
 
-My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite. I have also taken part in two AI hackathons (Signly, Constellate).
+My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite. I have also taken part in two AI hackathons (Signly, Constellate); Constellate is now my own continued project.
 
 Also: Microsoft Azure Fundamentals (2025), SAP ERP Fundamentals (2026), Odoo 18 Business Game (2026).
 
@@ -56,11 +56,13 @@ Web-based knowledge database as part of an AI-assisted medical assistance system
 
 ### ✨ Constellate
 
-**Rare disease knowledge graph · Hack-Nation 7th Global AI Hackathon, Vienna Hub**
+**Evidence-graded knowledge graph for rare diseases · started at the Hack-Nation 7th Global AI Hackathon, Vienna Hub**
 
-A team project: a knowledge graph that structures rare diseases by underlying mechanisms rather than by name alone, with sources and evidence levels.
+Started in a team at the hackathon, then cleaned up and developed further on my own: a knowledge graph that organises rare diseases by mechanism and phenotype instead of name, with source, date and evidence level on every link. When there is no supported lead it shows what was searched instead of guessing. I rebuilt the interface (star-map start page, disease, gene and symptom pages, evidence drawer, compare view) and documented the project.
 
-[**Demo →**](https://constellate-vert.vercel.app) · [**Code →**](https://github.com/hannokuegler/constellate)
+[**Live demo →**](https://constellate-omega.vercel.app) · [**Code →**](https://github.com/Reczec/constellate)
+
+`Next.js` `TypeScript` `React` `Tailwind` `Python` `OpenAI API`
 
 ---
 
