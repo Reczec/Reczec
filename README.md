@@ -43,7 +43,7 @@ My diploma thesis dealt with AI-assisted systems in medicine. My part in the tea
 
 *Started in a team at the Hack-Nation 7th Global AI Hackathon (Vienna Hub).*
 
-A knowledge graph that organises rare diseases by mechanism and phenotype instead of name, with source, date and evidence level on every link. When there is no supported lead, it shows what was searched instead of guessing. I rebuilt the interface (star-map start page, disease, gene and symptom pages, evidence drawer, compare view) and documented the project.
+A knowledge graph that organises rare diseases by mechanism and phenotype instead of name, with source, date and evidence level on every link. When there is no supported lead, it shows what was searched instead of guessing. Includes a star-map start page, disease, gene and symptom pages, an evidence drawer and a compare view.
 
 [**Live demo →**](https://constellate-omega.vercel.app) · [**Code →**](https://github.com/Reczec/constellate)
 
