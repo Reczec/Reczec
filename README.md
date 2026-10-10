@@ -26,7 +26,7 @@
 
 I graduated from the **TGM Vienna** (HTL, Industrial Engineering – Business Informatics) in 2026. I work with **Python, SQL and web technologies** and like projects that solve a concrete problem.
 
-My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite. I have also taken part in two AI hackathons (Signly, Constellate); Constellate is now my own continued project.
+My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite. I have also taken part in two AI hackathons (Signly, Constellate).
 
 ---
 
@@ -36,7 +36,7 @@ My diploma thesis dealt with AI-assisted systems in medicine. My part in the tea
 |---|---|---|---|---|
 | ✨ | **Constellate** | Evidence-graded knowledge graph for rare diseases | Next.js, TypeScript, Python, OpenAI API | [Demo](https://constellate-omega.vercel.app) · [Code](https://github.com/Reczec/constellate) |
 | 🤟 | **Signly** | Real-time ASL sign recognition in the browser | TypeScript, React, MediaPipe, ONNX Runtime Web | [Code](https://github.com/Reczec/signly) |
-| 🏥 | **Medical Knowledge Database** | Diploma thesis, team project | Python, FastAPI, SQLite | – |
+| 🏥 | **Medical Knowledge Database** | Diploma thesis, team project | Python, FastAPI, SQLite | Original lost, rebuild coming |
 | 🌐 | **Portfolio** | Personal site, German / English, mobile first | HTML, CSS, JavaScript | [Site](https://reczec.github.io/recep-portfolio/) |
 
 ### ✨ Constellate
@@ -60,6 +60,8 @@ A browser prototype that recognises isolated ASL signs via webcam, running direc
 *Diploma thesis, team project.*
 
 Web-based knowledge database as part of an AI-assisted medical assistance system. My focus: entries with categories and keywords, search and filter, REST API, JSON export.
+
+**Repo:** the original has vanished. Either it got lost somewhere or my cat ate it. That is why there is no link here. A rebuilt, extended version is planned and will be linked here once it is done.
 
 ### 🌐 Portfolio
 
@@ -87,14 +89,6 @@ Personal portfolio (German / English, dark, mobile first) in plain HTML, CSS and
   <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure" title="Azure" />
   <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" />
 </p>
-
----
-
-## 🎓 Certifications
-
-- Microsoft Azure Fundamentals (2025)
-- SAP ERP Fundamentals (2026)
-- Odoo 18 Business Game (2026)
 
 ---
 
