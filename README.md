@@ -26,7 +26,7 @@
 
 I graduated from the **TGM Vienna** (HTL, Industrial Engineering – Business Informatics) in 2026. I work with **Python, SQL and web technologies** and like projects that solve a concrete problem.
 
-My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite. I have also taken part in two AI hackathons (Signly, Constellate).
+My diploma thesis dealt with AI-assisted systems in medicine. My part in the team was a **web-based medical knowledge database** built with FastAPI and SQLite, which I later rebuilt and extended as **MedKB**. I have also taken part in two AI hackathons (Signly, Constellate).
 
 ---
 
@@ -34,10 +34,18 @@ My diploma thesis dealt with AI-assisted systems in medicine. My part in the tea
 
 | | Project | What it is | Stack | Links |
 |---|---|---|---|---|
+| 🏥 | **MedKB** | Medical knowledge base: search, classification, roles, AI assistance | Python, FastAPI, PostgreSQL, React, TypeScript, Docker | [Demo](https://medkb.onrender.com) · [Code](https://github.com/Reczec/medkb) |
 | ✨ | **Constellate** | Evidence-graded knowledge graph for rare diseases | Next.js, TypeScript, Python, OpenAI API | [Demo](https://constellate-omega.vercel.app) · [Code](https://github.com/Reczec/constellate) |
 | 🤟 | **Signly** | Real-time ASL sign recognition in the browser | TypeScript, React, MediaPipe, ONNX Runtime Web | [Code](https://github.com/Reczec/signly) |
-| 🏥 | **Medical Knowledge Database** | Diploma thesis, team project | Python, FastAPI, SQLite | Original lost, rebuild coming |
 | 🌐 | **Portfolio** | Personal site, German / English, mobile first | HTML, CSS, JavaScript | [Site](https://reczec.github.io/recep-portfolio/) |
+
+### 🏥 MedKB
+
+*Extension of my diploma thesis, own project.*
+
+A medical knowledge base with 47 structured example entries in 16 specialties, keyword search, an explainable rule-based classifier, live PubMed, WHO ICD-11 and openFDA data, and AI assistance grounded in the entries. Three roles (admin, doctor, patient) see the same knowledge at different depths. Prototype with example data only, not medical advice. The free hosting sleeps when idle, so the first request can take up to a minute.
+
+[**Live demo →**](https://medkb.onrender.com) · [**Code →**](https://github.com/Reczec/medkb)
 
 ### ✨ Constellate
 
@@ -55,13 +63,13 @@ A browser prototype that recognises isolated ASL signs via webcam, running direc
 
 [**Code →**](https://github.com/Reczec/signly)
 
-### 🏥 Digital Medical Knowledge Database
+### 📚 Digital Medical Knowledge Database
 
 *Diploma thesis, team project.*
 
 Web-based knowledge database as part of an AI-assisted medical assistance system. My focus: entries with categories and keywords, search and filter, REST API, JSON export.
 
-**Repo:** the original has vanished. Either it got lost somewhere or my cat ate it. That is why there is no link here. A rebuilt, extended version is planned and will be linked here once it is done.
+The original repository is lost. I rebuilt my part from the written specification and extended it as [MedKB](https://github.com/Reczec/medkb).
 
 ### 🌐 Portfolio
 
@@ -84,6 +92,8 @@ Personal portfolio (German / English, dark, mobile first) in plain HTML, CSS and
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
   <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure" title="Azure" />
